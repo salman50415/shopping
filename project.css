@@ -1,0 +1,45 @@
+h1{
+	display:grid;
+	
+}
+form{
+	margin-left:600px;
+	
+}
+#a{
+	margin-right:100px;
+	color:white;
+}
+#b{
+	margin-right:100px;
+	a:hover:green;
+}
+#c{
+	margin-right:100px;
+}
+#welcome{
+	color:white;
+	text-align:center;
+	background-color:black;
+}
+body{
+}
+h1{
+	font-family:italic;
+}
+#image{
+	margin-left:300px;
+	
+}
+footer{
+	background-color:white;
+	
+}
+footer{
+	text-align:ceter;
+	background-color:black;
+	color:white;
+}
+body{
+	background-color:#d59506;
+}
